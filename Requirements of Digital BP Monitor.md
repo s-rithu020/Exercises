@@ -18,11 +18,11 @@
 ### Low Level Requirements
 | ID | Description | HLR_ID |
 |------|-----------|--------|
-| LLR01 | It should measure the blood pressure from range 0-299 mmHg | HLR01 |
+| LLR01 | It can measure the blood pressure from range 0-299 mmHg | HLR01 |
 | LLR02 | The microcontroller used should be of low cost | HLR04 |
 | LLR03 | BP monitor should weigh a minimum of 350 g or less | HLR05 |
 | LLR04 | It needs four AA or AAA batteries for operation | HLR06 |
-| LLR05 | It should store results up to at least 14 sets | HLR07 |
+| LLR05 | It can store results up to at least 14 sets | HLR07 |
 | LLR06 | Battery life should last for approximately 1000 measurements | HLR03 |
 
 
