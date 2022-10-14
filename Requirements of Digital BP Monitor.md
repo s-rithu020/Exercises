@@ -34,7 +34,11 @@
 * Opportunities
 * Threaths
 
+### Cost Analysis
+Digital BP monitoring devices are operated by patients to improve the management of high BP. This process 
+
 ### 4W's and 1'H
+
 
 
 ## Architecture
